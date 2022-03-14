@@ -1,0 +1,4 @@
+首先下载miniconda(个人推荐)，教程在网上搜智能
+然后就是下载pycharm
+再者就是下载git，网上有步骤
+打开pycharm最初的界面，点击从VCS获取，然后输入URL（就是GitHub上的https），然后就可以了GitHub上的项目了。
