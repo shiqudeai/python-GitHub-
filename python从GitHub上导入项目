@@ -1,4 +1,6 @@
-首先下载miniconda(个人推荐)，教程在网上搜智能
+首先下载miniconda(个人推荐)，教程在网上搜就行
 然后就是下载pycharm
 再者就是下载git，网上有步骤
-打开pycharm最初的界面，点击从VCS获取，然后输入URL（就是GitHub上的https），然后就可以了GitHub上的项目了。
+打开pycharm最初的界面，点击从VCS获取，然后输入URL（就是GitHub上的https），然后就可以克隆GitHub上的项目了
+如何创建虚拟环境：conda create -n 虚拟环境名 python==版本号
+如何激活虚拟环境：activate 虚拟环境名
